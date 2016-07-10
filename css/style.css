@@ -471,6 +471,11 @@ input[type="radio"] + label:before {
 
 /* Image */
 
+#logo {
+    height: 50px;
+    margin-top: 20px;
+}
+
 .image {
     border-radius: 4px;
     border: 0;
